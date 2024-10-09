@@ -1,3 +1,31 @@
+<h1>My attempt to create e-commerce website</h1>
+<h1>Percobaan Membuat Website E-commerce</h1>
+
+Website ini berfungsi sebagai toko online 1 arah dimana toko berperan sebagai penyedia barang, jadi user hanya bisa membeli barang atau sembagai konsumer saja.
+
+fitur :
+Admin,
+- CRUD Barang
+- Melihat, Mengubah, dan Menghapus User lain
+- Menambahkan dan Menghapus Kategori Barang
+- Mengatur Pesanan
+- 
+User,
+- Mebuat Akun
+- Melakukan Transaksi
+- Mengubah Data Akun (sendiri)
+
+Requirment :
+- Xampp + PHP
+- Composer
+- Laravel (dirokemendasikan versi 10-11)
+  
+Cara instalasi
+1. Install composer sampai selesai
+2. Install laravel via command composer
+3. Pasang database menggunakan perintah console "php artisan migrate" (dalam folder yang berisi file "e-shop" ini)
+4. ketik "php artisan serve" untuk menjalankan program
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
