@@ -1,7 +1,7 @@
 <h1>My attempt to create e-commerce website</h1>
 <h1>Percobaan Membuat Website E-commerce</h1>
 
-Website ini berfungsi sebagai toko online 1 arah dimana toko berperan sebagai penyedia barang, jadi user hanya bisa membeli barang atau sembagai konsumer saja.
+Website ini berfungsi sebagai toko online 1 arah dimana toko/perusahaan berperan sebagai penyedia barang, jadi user hanya bisa membeli barang atau sembagai konsumer saja.
 
 fitur :
 Admin,
@@ -9,9 +9,8 @@ Admin,
 - Melihat, Mengubah, dan Menghapus User lain
 - Menambahkan dan Menghapus Kategori Barang
 - Mengatur Pesanan
-- 
 User,
-- Mebuat Akun
+- Membuat Akun
 - Melakukan Transaksi
 - Mengubah Data Akun (sendiri)
 
